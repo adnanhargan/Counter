@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f1f1f1;
+}
+.container{
+    text-align: center;
+    margin-top: 10% ;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 4rem;
+    text-decoration: none;
+}
+#value{
+    font-size: 10rem;
+}
+.btn{
+    font-size: 22px;
+    padding: 10px;
+    margin: 0 10px 0 10px;
+    background-color: #000000;
+    border: 1px solid black;
+    color: #ffffff;
+    cursor: pointer;
+}
